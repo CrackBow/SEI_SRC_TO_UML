@@ -19,5 +19,27 @@ This script will produce a grahviz vocde that can be piped into graphviv engine
  Command:
  
          ../../py2uml.py Test#1 | dot -T png -o output.png
- 
+         
+*Animals.py:*
+
+    class Animal:
+    	def __init__(self):
+    		pass
+
+    	def makeNoise():
+    		pass
+
+    class Dog(Animal):
+    	def wagTail():
+    		pass
+
+    	def __somePrivateMethod():
+    		pass
+
+    class Cat(Animal):
+    	pass
+
+
+
+Which Generates 
 ![](https://raw.github.com/CrackBow/SEI_SRC_TO_UML/master/examples/example1/output.png)
