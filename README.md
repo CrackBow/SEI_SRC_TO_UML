@@ -43,4 +43,5 @@ This script will produce a grahviz vocde that can be piped into graphviv engine
 
 Which Generates 
 ![](https://github.com/CrackBow/SEI_SRC_TO_UML/tree/main/example/example1/output.png)
+![](https://github.com/CrackBow/SEI_SRC_TO_UML/blob/main/example/example1/output.png)
 ![](https://raw.github.com/Ivesvdf/py2uml/master/examples/example1/output.png)
