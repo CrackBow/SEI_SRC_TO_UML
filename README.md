@@ -14,6 +14,10 @@ This script will produce a grahviz vocde that can be piped into graphviv engine
  
  Note that your code must compile in order to use (files will be imported).
  
- ## Example 
+ ## Examples
+ 
+ Command:
+ 
+         ../../py2uml.py Test#1 | dot -T png -o output.png
  
 ![](https://raw.github.com/CrackBow/SEI_SRC_TO_UML/master/examples/example1/output.png)
